@@ -1,3 +1,5 @@
+const queries = require('./queries')
+
 module.exports = app => {
     const { existsOrError, notExistsOrError } = app.api.validation
 
