@@ -1,20 +1,24 @@
 <h1 align="center">Welcome to Dev Library 👋</h1>
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version-2.0-blue.svg?cacheSeconds=2592000" />
+  <img alt="Version" src="https://img.shields.io/badge/version-0.1-greenlight.svg?cacheSeconds=2592000" />
+  <img alt="Version" src="https://img.shields.io/github/issues/elzasimoes/dev-library" />
+  <img alt="Version" src="https://img.shields.io/github/languages/top/elzasimoes/dev-library?color=%2349C31B" />
+<img alt="Version" src="https://img.shields.io/github/languages/count/elzasimoes/dev-library?color=%2349C31B" />
+
 </p>
 
-> Projeto
+> Project consists of a developer library where documentation can be saved and accessed by other developers.
 
-## Install
+## Frontend:
 
 ```sh
-npm install
+-
 ```
 
-## Usage
+## Backend:
 
 ```sh
-npm install
+-
 ```
 
 ## Author
